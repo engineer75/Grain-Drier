@@ -1,10 +1,9 @@
 # RTOS-Based Grain Drier
 
-![Platform](https://img.shields.io/badge/Platform-LPC1768-blue)
-![RTOS](https://img.shields.io/badge/RTOS-RTL--RTX-green)
-![IDE](https://img.shields.io/badge/IDE-Keil%20uVision%204-orange)
-![Language](https://img.shields.io/badge/Language-C-yellow)
-![Status](https://img.shields.io/badge/Status-Active-success)
+![Platform](https://www.nxp.com/products/LPC1768FBD100)
+![RTOS](https://www.keil.com/support/man/docs/rlarm/rlarm_ar_artxarm.htm)
+![IDE](https://www.youtube.com/watch?v=PDlRiDz8yB8&pp=ygUaa2VpbCB1dmlzaW9uIDTigIsgZG93bmxvYWQ%3D)
+![Language](https://www.open-std.org/jtc1/sc22/wg14/)
 
 An embedded systems project demonstrating the use of a **Real-Time Operating System (RTOS)** in a grain drying application using the **RTL-RTX kernel** on the **LPC1768 (ARM Cortex-M3)** microcontroller.
 
