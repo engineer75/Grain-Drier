@@ -1,5 +1,6 @@
-## **RTOS Based Grain Drier **
+## RTOS Based Grain Drier 
 ==============================
+
 This project demonstrates the the use of RTOS in grain drying.The RTOS used is *RTL-RTX kernel* OS by *keil*.
 It is demonstared using LPC1768 board.The sensores used are:-
 
@@ -15,13 +16,13 @@ To work this you need three source files:
 
 which are already provided in the repository.
 
-The environment used is keil uvision 4.Follow the steps to get this work done.
+The environment used is keil uvision 4. Follow the steps to get this work done.
 
 1. Create a new project on keil uvision 4.You need to create a different project to know the working of each sensor.
 2. Select the file you want and add it to the target with the source files.To work on LCD add the >>lcd.h and >>lcd.s files.
 3. Go to options for target select the RTX Kernel.
 
-# Below are the descriptions for each files:*
+# Below are the descriptions for each files:
 
 1. DcMotor.c = To check DC Motor.
 2. dht11_OS.c = To check temperature sensor in OS environment.
