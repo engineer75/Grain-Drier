@@ -10,6 +10,7 @@
 *.html
 *.d
 temp
+temp.c
 *.uvgui_75sag
 *.uvopt
 *.lnp
